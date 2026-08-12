@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sumansaurabh2640/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0047-permutations-ii) |
 | [0220-contains-duplicate-iii](https://github.com/sumansaurabh2640/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0283-move-zeroes](https://github.com/sumansaurabh2640/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0047-permutations-ii) |
 | [0220-contains-duplicate-iii](https://github.com/sumansaurabh2640/leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
 |  |
@@ -42,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sumansaurabh2640/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
