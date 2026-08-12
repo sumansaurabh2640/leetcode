@@ -1,3 +1,33 @@
+// import java.util.TreeSet;
+
+// class Solution {
+//     public boolean containsNearbyAlmostDuplicate(int[] nums, int indexDiff, int valueDiff) {
+//         TreeSet<Long> set = new TreeSet<>();
+
+//         for (int i = 0; i < nums.length; i++) {
+
+//             long num = nums[i];
+
+//             // Find the smallest number >= num - valueDiff
+//             Long candidate = set.ceiling(num - (long) valueDiff);
+
+//             // Check if candidate is within valueDiff
+//             if (candidate != null && candidate <= num + (long) valueDiff) {
+//                 return true;
+//             }
+
+//             set.add(num);
+
+//             // Keep only the previous indexDiff elements
+//             if (i >= indexDiff) {
+//                 set.remove((long) nums[i - indexDiff]);
+//             }
+//         }
+
+//         return false;
+//     }
+// }
+
 import java.util.TreeSet;
 
 class Solution {
@@ -5,20 +35,16 @@ class Solution {
         TreeSet<Long> set = new TreeSet<>();
 
         for (int i = 0; i < nums.length; i++) {
-
             long num = nums[i];
 
-            // Find the smallest number >= num - valueDiff
-            Long candidate = set.ceiling(num - (long) valueDiff);
+            Long x = set.ceiling(num - valueDiff);
 
-            // Check if candidate is within valueDiff
-            if (candidate != null && candidate <= num + (long) valueDiff) {
+            if (x != null && x <= num + valueDiff) {
                 return true;
             }
 
             set.add(num);
 
-            // Keep only the previous indexDiff elements
             if (i >= indexDiff) {
                 set.remove((long) nums[i - indexDiff]);
             }
