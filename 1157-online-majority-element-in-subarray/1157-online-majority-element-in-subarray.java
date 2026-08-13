@@ -21,6 +21,7 @@ class MajorityChecker {
 
     private int[] arr;
     private Map<Integer, List<Integer>> positions;
+    private Random random = new Random();
 
     public MajorityChecker(int[] arr) {
         this.arr = arr;
@@ -32,32 +33,19 @@ class MajorityChecker {
     }
 
     public int query(int left, int right, int threshold) {
+        int length = right - left + 1;
 
-        // Find possible majority using Boyer-Moore
-        int candidate = arr[left];
-        int count = 0;
+        for (int t = 0; t < 20; t++) {
+            int index = left + random.nextInt(length);
+            int candidate = arr[index];
 
-        for (int i = left; i <= right; i++) {
-            if (count == 0) {
-                candidate = arr[i];
-                count = 1;
-            } else if (arr[i] == candidate) {
-                count++;
-            } else {
-                count--;
+            List<Integer> list = positions.get(candidate);
+
+            int count = upperBound(list, right) - lowerBound(list, left);
+
+            if (count >= threshold) {
+                return candidate;
             }
-        }
-
-        // Count candidate in [left, right]
-        List<Integer> list = positions.get(candidate);
-
-        int first = lowerBound(list, left);
-        int last = upperBound(list, right);
-
-        int frequency = last - first;
-
-        if (frequency >= threshold) {
-            return candidate;
         }
 
         return -1;
