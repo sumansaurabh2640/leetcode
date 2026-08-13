@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sumansaurabh2640/leetcode/tree/master/0051-n-queens) |
 | [0220-contains-duplicate-iii](https://github.com/sumansaurabh2640/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sumansaurabh2640/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0414-third-maximum-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumansaurabh2640/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0047-permutations-ii) |
 | [0220-contains-duplicate-iii](https://github.com/sumansaurabh2640/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0414-third-maximum-number) |
 ## Bucket Sort
 |  |
@@ -65,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumansaurabh2640/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
