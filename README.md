@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1157-online-majority-element-in-subarray](https://github.com/sumansaurabh2640/leetcode/tree/master/1157-online-majority-element-in-subarray) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sumansaurabh2640/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
