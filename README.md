@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sumansaurabh2640/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0414-third-maximum-number) |
 | [1157-online-majority-element-in-subarray](https://github.com/sumansaurabh2640/leetcode/tree/master/1157-online-majority-element-in-subarray) |
+| [1929-concatenation-of-array](https://github.com/sumansaurabh2640/leetcode/tree/master/1929-concatenation-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumansaurabh2640/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sumansaurabh2640/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sumansaurabh2640/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sumansaurabh2640/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
