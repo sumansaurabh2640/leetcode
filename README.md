@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/sumansaurabh2640/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sumansaurabh2640/leetcode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sumansaurabh2640/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sumansaurabh2640/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sumansaurabh2640/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sumansaurabh2640/leetcode/tree/master/0070-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumansaurabh2640/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sumansaurabh2640/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
