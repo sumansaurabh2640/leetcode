@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sumansaurabh2640/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/sumansaurabh2640/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/sumansaurabh2640/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 | [1768-merge-strings-alternately](https://github.com/sumansaurabh2640/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumansaurabh2640/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sumansaurabh2640/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sumansaurabh2640/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumansaurabh2640/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sumansaurabh2640/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/sumansaurabh2640/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sumansaurabh2640/leetcode/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 ## Enumeration
 |  |
 | ------- |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
