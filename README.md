@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sumansaurabh2640/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sumansaurabh2640/leetcode/tree/master/0051-n-queens) |
+| [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0220-contains-duplicate-iii](https://github.com/sumansaurabh2640/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sumansaurabh2640/leetcode/tree/master/0283-move-zeroes) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sumansaurabh2640/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sumansaurabh2640/leetcode/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumansaurabh2640/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sumansaurabh2640/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumansaurabh2640/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -262,4 +265,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
