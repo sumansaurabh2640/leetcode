@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sumansaurabh2640/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sumansaurabh2640/leetcode/tree/master/0051-n-queens) |
 | [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumansaurabh2640/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0220-contains-duplicate-iii](https://github.com/sumansaurabh2640/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sumansaurabh2640/leetcode/tree/master/0283-move-zeroes) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sumansaurabh2640/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumansaurabh2640/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumansaurabh2640/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumansaurabh2640/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 ## Prefix Sum
 |  |
