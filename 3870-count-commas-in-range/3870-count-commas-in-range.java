@@ -4,6 +4,6 @@ class Solution {
             return 0;
         }
 
-        return n - 999;
+        return (n-1000)+1;
     }
 }
