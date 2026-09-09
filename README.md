@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sumansaurabh2640/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/sumansaurabh2640/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sumansaurabh2640/leetcode/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sumansaurabh2640/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sumansaurabh2640/leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
