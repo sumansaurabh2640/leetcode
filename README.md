@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumansaurabh2640/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/sumansaurabh2640/leetcode/tree/master/0115-distinct-subsequences) |
+| [0233-number-of-digit-one](https://github.com/sumansaurabh2640/leetcode/tree/master/0233-number-of-digit-one) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Greedy
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/sumansaurabh2640/leetcode/tree/master/0233-number-of-digit-one) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/sumansaurabh2640/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/sumansaurabh2640/leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/sumansaurabh2640/leetcode/tree/master/0233-number-of-digit-one) |
 ## Enumeration
 |  |
 | ------- |
