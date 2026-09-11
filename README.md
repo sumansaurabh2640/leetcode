@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sumansaurabh2640/leetcode/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/sumansaurabh2640/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Greedy
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sumansaurabh2640/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/sumansaurabh2640/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/sumansaurabh2640/leetcode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
@@ -376,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sumansaurabh2640/leetcode/tree/master/0292-nim-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
