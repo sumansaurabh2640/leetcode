@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumansaurabh2640/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumansaurabh2640/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sumansaurabh2640/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sumansaurabh2640/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumansaurabh2640/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumansaurabh2640/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sumansaurabh2640/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sumansaurabh2640/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumansaurabh2640/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sumansaurabh2640/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -266,10 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sumansaurabh2640/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sumansaurabh2640/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sumansaurabh2640/leetcode/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sumansaurabh2640/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sumansaurabh2640/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
