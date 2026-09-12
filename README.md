@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sumansaurabh2640/leetcode/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/sumansaurabh2640/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumansaurabh2640/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/sumansaurabh2640/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0264-ugly-number-ii) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumansaurabh2640/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/sumansaurabh2640/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/sumansaurabh2640/leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/sumansaurabh2640/leetcode/tree/master/0282-expression-add-operators) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sumansaurabh2640/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
