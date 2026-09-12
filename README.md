@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sumansaurabh2640/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sumansaurabh2640/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/sumansaurabh2640/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sumansaurabh2640/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/sumansaurabh2640/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/sumansaurabh2640/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sumansaurabh2640/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sumansaurabh2640/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sumansaurabh2640/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sumansaurabh2640/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/sumansaurabh2640/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sumansaurabh2640/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/sumansaurabh2640/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sumansaurabh2640/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/sumansaurabh2640/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sumansaurabh2640/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sumansaurabh2640/leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/sumansaurabh2640/leetcode/tree/master/1929-concatenation-of-array) |
 ## Minimax
 |  |
