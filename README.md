@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sumansaurabh2640/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/sumansaurabh2640/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sumansaurabh2640/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/sumansaurabh2640/leetcode/tree/master/3870-count-commas-in-range) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
@@ -370,10 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sumansaurabh2640/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
 ## Stack
 |  |
 | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumansaurabh2640/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Brainteaser
 |  |
@@ -430,4 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
