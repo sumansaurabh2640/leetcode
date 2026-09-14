@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/sumansaurabh2640/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/sumansaurabh2640/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/sumansaurabh2640/leetcode/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/sumansaurabh2640/leetcode/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/sumansaurabh2640/leetcode/tree/master/3870-count-commas-in-range) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sumansaurabh2640/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/sumansaurabh2640/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sumansaurabh2640/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/sumansaurabh2640/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/sumansaurabh2640/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sumansaurabh2640/leetcode/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumansaurabh2640/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
