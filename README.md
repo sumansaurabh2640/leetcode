@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/sumansaurabh2640/leetcode/tree/master/0343-integer-break) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumansaurabh2640/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sumansaurabh2640/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/sumansaurabh2640/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/sumansaurabh2640/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/sumansaurabh2640/leetcode/tree/master/0343-integer-break) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/sumansaurabh2640/leetcode/tree/master/3870-count-commas-in-range) |
