@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0835-image-overlap) |
 | [1157-online-majority-element-in-subarray](https://github.com/sumansaurabh2640/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1929-concatenation-of-array](https://github.com/sumansaurabh2640/leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumansaurabh2640/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/sumansaurabh2640/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sumansaurabh2640/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumansaurabh2640/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumansaurabh2640/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sumansaurabh2640/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumansaurabh2640/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sumansaurabh2640/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumansaurabh2640/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumansaurabh2640/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/sumansaurabh2640/leetcode/tree/master/0367-valid-perfect-square) |
 | [1157-online-majority-element-in-subarray](https://github.com/sumansaurabh2640/leetcode/tree/master/1157-online-majority-element-in-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumansaurabh2640/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Design
 |  |
