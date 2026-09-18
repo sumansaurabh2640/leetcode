@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sumansaurabh2640/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumansaurabh2640/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumansaurabh2640/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0045-jump-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sumansaurabh2640/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/sumansaurabh2640/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/sumansaurabh2640/leetcode/tree/master/0282-expression-add-operators) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/sumansaurabh2640/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumansaurabh2640/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sumansaurabh2640/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumansaurabh2640/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
