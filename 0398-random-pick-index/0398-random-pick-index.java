@@ -15,31 +15,23 @@
 //  * int param_1 = obj.pick(target);
 //  */
 
- import java.util.*;
+import java.util.*;
 
 class Solution {
-    private int[] nums;
+    private Map<Integer, List<Integer>> map;
     private Random random;
 
     public Solution(int[] nums) {
-        this.nums = nums;
-        this.random = new Random();
+        map = new HashMap<>();
+        random = new Random();
+
+        for (int i = 0; i < nums.length; i++) {
+            map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
+        }
     }
 
     public int pick(int target) {
-        int result = -1;
-        int count = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == target) {
-                count++;
-
-                if (random.nextInt(count) == 0) {
-                    result = i;
-                }
-            }
-        }
-
-        return result;
+        List<Integer> indices = map.get(target);
+        return indices.get(random.nextInt(indices.size()));
     }
 }
