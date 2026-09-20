@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sumansaurabh2640/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/sumansaurabh2640/leetcode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/sumansaurabh2640/leetcode/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/sumansaurabh2640/leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0835-image-overlap) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/sumansaurabh2640/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/sumansaurabh2640/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0396-rotate-function](https://github.com/sumansaurabh2640/leetcode/tree/master/0396-rotate-function) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/sumansaurabh2640/leetcode/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/sumansaurabh2640/leetcode/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/sumansaurabh2640/leetcode/tree/master/0391-perfect-rectangle) |
+| [0396-rotate-function](https://github.com/sumansaurabh2640/leetcode/tree/master/0396-rotate-function) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumansaurabh2640/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
