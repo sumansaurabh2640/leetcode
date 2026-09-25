@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sumansaurabh2640/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumansaurabh2640/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sumansaurabh2640/leetcode/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/sumansaurabh2640/leetcode/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sumansaurabh2640/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1096-brace-expansion-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/sumansaurabh2640/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/sumansaurabh2640/leetcode/tree/master/0282-expression-add-operators) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/sumansaurabh2640/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumansaurabh2640/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/sumansaurabh2640/leetcode/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/sumansaurabh2640/leetcode/tree/master/0398-random-pick-index) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/sumansaurabh2640/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
+| [1096-brace-expansion-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
@@ -458,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumansaurabh2640/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0227-basic-calculator-ii) |
+| [1096-brace-expansion-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Prefix Sum
 |  |
 | ------- |
