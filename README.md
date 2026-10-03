@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sumansaurabh2640/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumansaurabh2640/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sumansaurabh2640/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumansaurabh2640/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sumansaurabh2640/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumansaurabh2640/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sumansaurabh2640/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sumansaurabh2640/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/sumansaurabh2640/leetcode/tree/master/0365-water-and-jug-problem) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumansaurabh2640/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Brainteaser
