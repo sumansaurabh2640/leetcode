@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/sumansaurabh2640/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/sumansaurabh2640/leetcode/tree/master/0282-expression-add-operators) |
 | [0412-fizz-buzz](https://github.com/sumansaurabh2640/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sumansaurabh2640/leetcode/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/sumansaurabh2640/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/sumansaurabh2640/leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/sumansaurabh2640/leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/sumansaurabh2640/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sumansaurabh2640/leetcode/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumansaurabh2640/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sumansaurabh2640/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sumansaurabh2640/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sumansaurabh2640/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sumansaurabh2640/leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/sumansaurabh2640/leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/sumansaurabh2640/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Minimax
