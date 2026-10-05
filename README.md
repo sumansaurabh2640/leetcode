@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/sumansaurabh2640/leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/sumansaurabh2640/leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sumansaurabh2640/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0835-image-overlap) |
 | [1157-online-majority-element-in-subarray](https://github.com/sumansaurabh2640/leetcode/tree/master/1157-online-majority-element-in-subarray) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/sumansaurabh2640/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/sumansaurabh2640/leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sumansaurabh2640/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumansaurabh2640/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
