@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/sumansaurabh2640/leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/sumansaurabh2640/leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/sumansaurabh2640/leetcode/tree/master/0414-third-maximum-number) |
+| [0447-number-of-boomerangs](https://github.com/sumansaurabh2640/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumansaurabh2640/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0835-image-overlap) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/sumansaurabh2640/leetcode/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/sumansaurabh2640/leetcode/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/sumansaurabh2640/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0447-number-of-boomerangs](https://github.com/sumansaurabh2640/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/sumansaurabh2640/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/sumansaurabh2640/leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/sumansaurabh2640/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumansaurabh2640/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumansaurabh2640/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
