@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/sumansaurabh2640/leetcode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/sumansaurabh2640/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumansaurabh2640/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/sumansaurabh2640/leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/sumansaurabh2640/leetcode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/sumansaurabh2640/leetcode/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/sumansaurabh2640/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -643,4 +645,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sumansaurabh2640/leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sumansaurabh2640/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
