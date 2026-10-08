@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/sumansaurabh2640/leetcode/tree/master/0396-rotate-function) |
 | [0458-poor-pigs](https://github.com/sumansaurabh2640/leetcode/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
 | [0678-valid-parenthesis-string](https://github.com/sumansaurabh2640/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumansaurabh2640/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/sumansaurabh2640/leetcode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumansaurabh2640/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumansaurabh2640/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sumansaurabh2640/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sumansaurabh2640/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
 | [0645-set-mismatch](https://github.com/sumansaurabh2640/leetcode/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sumansaurabh2640/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/sumansaurabh2640/leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sumansaurabh2640/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
 ## Tree
 |  |
 | ------- |
@@ -634,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/sumansaurabh2640/leetcode/tree/master/0391-perfect-rectangle) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
