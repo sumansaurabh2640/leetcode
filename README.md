@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sumansaurabh2640/leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/sumansaurabh2640/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/sumansaurabh2640/leetcode/tree/master/0441-arranging-coins) |
+| [0483-smallest-good-base](https://github.com/sumansaurabh2640/leetcode/tree/master/0483-smallest-good-base) |
 | [1157-online-majority-element-in-subarray](https://github.com/sumansaurabh2640/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumansaurabh2640/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/sumansaurabh2640/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/sumansaurabh2640/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/sumansaurabh2640/leetcode/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/sumansaurabh2640/leetcode/tree/master/0483-smallest-good-base) |
 | [0836-rectangle-overlap](https://github.com/sumansaurabh2640/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumansaurabh2640/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
