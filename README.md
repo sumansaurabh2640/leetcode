@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1157-online-majority-element-in-subarray](https://github.com/sumansaurabh2640/leetcode/tree/master/1157-online-majority-element-in-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/sumansaurabh2640/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumansaurabh2640/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sumansaurabh2640/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/sumansaurabh2640/leetcode/tree/master/1929-concatenation-of-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sumansaurabh2640/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/sumansaurabh2640/leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sumansaurabh2640/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sumansaurabh2640/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sumansaurabh2640/leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sumansaurabh2640/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/sumansaurabh2640/leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/sumansaurabh2640/leetcode/tree/master/2029-stone-game-ix) |
 | [3524-find-x-value-of-array-i](https://github.com/sumansaurabh2640/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sumansaurabh2640/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0372-super-pow](https://github.com/sumansaurabh2640/leetcode/tree/master/0372-super-pow) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -519,10 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/sumansaurabh2640/leetcode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/sumansaurabh2640/leetcode/tree/master/0458-poor-pigs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumansaurabh2640/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sumansaurabh2640/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
 |  |
@@ -538,21 +544,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sumansaurabh2640/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sumansaurabh2640/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0464-can-i-win](https://github.com/sumansaurabh2640/leetcode/tree/master/0464-can-i-win) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumansaurabh2640/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumansaurabh2640/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumansaurabh2640/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/sumansaurabh2640/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumansaurabh2640/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -712,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sumansaurabh2640/leetcode/tree/master/1510-stone-game-iv) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumansaurabh2640/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
